@@ -66,12 +66,7 @@ When requesting a feature, please include:
 | `high-priority` | Critical issues requiring immediate attention |
 | `help-wanted` | Community input appreciated |
 
-## Pricing Tiers
 
-- **Starter** ($97/mo): 1 domain, 5 users, core features
-- **Professional** ($297/mo): 5 domains, 15 users, all modules
-- **Agency** ($597/mo): 20 domains, unlimited users, white-label
-- **Enterprise** (Custom): Unlimited domains, API access, priority support
 
 ## Support Channels
 
